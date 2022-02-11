@@ -1,7 +1,7 @@
 #include <stdio.h>
 void input(float *base, float*height)
 {
-  printf("Enter the value of baseb and heigfht");
+  printf("Enter the value of baseb and height");
   scanf("%f%f" ,base,height);
 }
 void find_area(float base, float height, float*area)
